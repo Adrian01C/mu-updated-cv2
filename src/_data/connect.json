@@ -1,0 +1,76 @@
+{
+  "sectionTitle": "Let's Connect",
+  "avatarPath": "asset/image/Instagram 1080 x 1080 - london.jpg",
+  "socialList": [
+    {
+      "icon": "codetap",
+      "title": "CodeTap",
+      "description": "This is the Web Developer Factory that shapes students in developers.",
+      "label": "codetap.academy",
+      "link": "https://codetap.academy"
+    },
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "description": "There are more then 56 open source projects where you can see me working with HTML, CSS, JavaScript and many more techniques and technologies to help shape and make the web development a better world.",
+      "label": "github.com/Adrian01C",
+      "link": "https://github.com/Adrian01C"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "description": "I make the Front-End world a better place every day with a passion for web development.. 📲",
+      "label": "linkedin.com/in/virgil-ciociu-3a6122b4/",
+      "link": "https://www.linkedin.com/in/virgil-ciociu-3a6122b4/"
+    },
+    {
+      "icon": "stackoverflow",
+      "title": "StackOverflow",
+      "description": "Hundreds of questions answered and in top 5% overall",
+      "label": "s...flow.com/...marian-zburlea",
+      "link": "https://stackoverflow.com/users/2013164/marian-zburlea"
+    },
+    {
+      "icon": "codewars",
+      "title": "CodeWars",
+      "description": "Algorithms, here I come. I love solving them and I love when the solution can be a one-liner",
+      "label": "codewars.com/users/",
+      "link": ""
+    },
+    {
+      "icon": "udemy",
+      "title": "Udemy",
+      "description": "I want my help to reach as many people as possible and help them jumpstart their web developer career.",
+      "label": "udemy.com/user/",
+      "link": ""
+    },
+    {
+      "icon": "facebook",
+      "title": "FaceBook",
+      "description": "Meet my family and friends.",
+      "label": "facebook.com/AdrianCiociu1",
+      "link": "https://www.facebook.com/AdrianCiociu1"
+    },
+    {
+      "icon": "skype",
+      "title": "Skype",
+      "description": "Wanna have a call? Let me know!",
+      "label": "https://join.skype.com/invite/nRL1wRDFD04G",
+      "link": "https://join.skype.com/invite/nRL1wRDFD04G"
+    },
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "description": "",
+      "label": "https://www.instagram.com/ciociuva/",
+      "link": "https://www.instagram.com/ciociuva//"
+    },
+    {
+      "icon": "twitter",
+      "title": "twitter",
+      "description": "Let the birdy give the news!",
+      "label": "https://twitter.com/adrian_ciociu",
+      "link": "https://twitter.com/adrian_ciociu"
+    }
+  ]
+}
