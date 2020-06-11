@@ -5,7 +5,7 @@
     {
       "icon": "codetap",
       "title": "CodeTap",
-      "description": "This is the Web Developer Factory that shapes students in developers.",
+      "description": "This is the Web Developer Factory that shapes students in developers. I'm proud to be part of it.",
       "label": "codetap.academy",
       "link": "https://codetap.academy"
     },
@@ -13,22 +13,22 @@
       "icon": "github",
       "title": "GitHub",
       "description": "There are more then 56 open source projects where you can see me working with HTML, CSS, JavaScript and many more techniques and technologies to help shape and make the web development a better world.",
-      "label": "github.com/Adrian01C",
+      "label": "Press here to see my GitHub account",
       "link": "https://github.com/Adrian01C"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
       "description": "I make the Front-End world a better place every day with a passion for web development.. 📲",
-      "label": "linkedin.com/in/virgil-ciociu-3a6122b4/",
+      "label": "Press to see my Lidenkin account/",
       "link": "https://www.linkedin.com/in/virgil-ciociu-3a6122b4/"
     },
     {
       "icon": "stackoverflow",
       "title": "StackOverflow",
       "description": "Hundreds of questions answered and in top 5% overall",
-      "label": "s...flow.com/...marian-zburlea",
-      "link": "https://stackoverflow.com/users/2013164/marian-zburlea"
+      "label": "",
+      "link": ""
     },
     {
       "icon": "codewars",
